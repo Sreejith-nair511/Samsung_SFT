@@ -25,31 +25,38 @@ cd paryavaran-bandhu
 2. Install Dependencies
 Make sure you have pnpm installed:
 
-bash
-Copy
-Edit
 pnpm install
+<br>
 3. Run the Development Server
-bash
-Copy
-Edit
 pnpm dev
 Open http://localhost:3000 to view it in the browser.
+<br>
 
 🧱 Folder Structure
 bash
 Copy
 Edit
 ├── app/                  # Next.js routing and pages
+<br>
 ├── components/           # Reusable UI components
+<br>
 ├── hooks/                # Custom React hooks
+<br>
 ├── lib/                  # Utility functions and libraries
+<br>
 ├── public/               # Static assets
+<br>
 ├── styles/               # Global styles
+<br>
 ├── tailwind.config.ts    # Tailwind CSS configuration
+<br>
 ├── postcss.config.mjs    # PostCSS config
+<br>
 ├── tsconfig.json         # TypeScript configuration
+<br>
 └── package.json          # Project metadata and scripts
+<br>
+<br>
 📦 Scripts
 Command	Description
 pnpm dev	Run the dev server
