@@ -3,6 +3,13 @@
 ♻️ Purpose
 Paryavaran Bandhu is a digital initiative aimed at improving waste management and urban sanitation in Indian cities. It empowers sanitation workers, municipal officials, and citizens with real-time waste tracking, QR-based bin identification, reward systems for segregation, and performance dashboards.
 
+![image](https://github.com/user-attachments/assets/e0d8954f-71bf-4f43-9da3-ae1836570d83)
+![image](https://github.com/user-attachments/assets/63ad9ae6-59cf-4a01-b628-fbcb934a68a9)
+![image](https://github.com/user-attachments/assets/672aef46-9a80-41ce-8c29-8c6b08592ca7)
+
+https://proto-idea-2-mocha.vercel.app/analytics
+
+
 🛠️ Tech Stack
 Framework: Next.js (App Router)
 
